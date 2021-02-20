@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff3e59ed-8a3e-47fa-aaeb-15e99b5095b2" name="Default Changelist" comment="None" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Likapule &lt;3513540335@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/js/syntax.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1o3NYaj7h8sClvRZ3thuBnxP99E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff3e59ed-8a3e-47fa-aaeb-15e99b5095b2" name="Default Changelist" comment="" />
+      <created>1612511363306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612511363306</updated>
+      <workItem from="1612511364518" duration="288000" />
+      <workItem from="1612511697930" duration="2331000" />
+      <workItem from="1613546096992" duration="644000" />
+      <workItem from="1613638261317" duration="11609000" />
+      <workItem from="1613818403409" duration="6056000" />
+    </task>
+    <task id="LOCAL-00001" summary="None">
+      <created>1613826352453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613826352453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="None" />
+    <option name="LAST_COMMIT_MESSAGE" value="None" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="328" key="#Notifications" timestamp="1612511390934">
+      <screen x="0" y="0" width="1680" height="1013" />
+    </state>
+    <state x="559" y="328" key="#Notifications/0.0.1680.1013@0.0.1680.1013" timestamp="1612511390934" />
+    <state x="436" y="167" key="#部署" timestamp="1613826304741">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="436" y="167" key="#部署/0.0.1680.1010@0.0.1680.1010" timestamp="1613826304741" />
+    <state x="436" y="167" key="#部署/0.0.1680.1013@0.0.1680.1013" timestamp="1613546729862" />
+    <state x="454" y="0" key="CommitChangelistDialog2" timestamp="1613826347917">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="454" y="0" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1613826347917" />
+    <state x="454" y="0" key="CommitChangelistDialog2/0.0.1680.1013@0.0.1680.1013" timestamp="1613546743954" />
+    <state x="500" y="281" key="EditFileWatcherDialog" timestamp="1612513677723">
+      <screen x="0" y="0" width="1680" height="1013" />
+    </state>
+    <state x="500" y="281" key="EditFileWatcherDialog/0.0.1680.1013@0.0.1680.1013" timestamp="1612513677723" />
+    <state x="624" y="263" key="FileChooserDialogImpl" timestamp="1612513670654">
+      <screen x="0" y="0" width="1680" height="1013" />
+    </state>
+    <state x="624" y="263" key="FileChooserDialogImpl/0.0.1680.1013@0.0.1680.1013" timestamp="1612513670654" />
+    <state x="419" y="239" key="IDE.errors.dialog" timestamp="1613639924658">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="419" y="239" key="IDE.errors.dialog/0.0.1680.1010@0.0.1680.1010" timestamp="1613639924658" />
+    <state x="712" y="195" key="SettingsEditor" timestamp="1613826470288">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="712" y="195" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1613826470288" />
+    <state x="375" y="153" key="SettingsEditor/0.0.1680.1013@0.0.1680.1013" timestamp="1613546531451" />
+    <state x="432" y="219" key="Vcs.Push.Dialog.v2" timestamp="1613826368842">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="219" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1613826368842" />
+  </component>
+</project>
