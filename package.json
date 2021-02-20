@@ -1,0 +1,24 @@
+{
+  "name": "GMSEditor",
+  "version": "1.0.0",
+  "description": "An Editor of GameMaker:Studio 1",
+  "keywords": ["Editor","GameMakerStudio","GMS"],
+  "main": "packer.js",
+  "dependencies": {
+    "coffeescript": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "pack": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Likapule/GMSEditor.git"
+  },
+  "author": "Likapule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Likapule/GMSEditor/issues"
+  },
+  "homepage": "https://github.com/Likapule/GMSEditor#readme"
+}

@@ -1,20 +1,20 @@
-import {load,loadProj} from "load.js";
-import {save,saveProj,saveAs,saveAsProj} from "save.js";
-import check from "checker.js";
+import load from "./load.js";
+import {save,saveProj,saveAs,saveAsProj} from "./save.js";
+import compile as coffee from "./coffeescript"
 
 $(function(){
-	$('#open').onclick(function(){
-		isFile = true;
-		file = load(true);
+	$('#open').onclick(() => {
+		window.isFile = true;
+		window.file = load(true);
 	});
-	$('#open-proj').onclick(function(){
-		isFile = false;
-		proj = loadProj(true);
+	$('#open-proj').onclick(() => {
+		window.isFile = false;
+		window.proj = load(false);
 	});
-	$('#save').onclick(function(){
+	$('#save').onclick(() => {
 		if (isFile) {
 			save(file);
-		} else{
+		} else {
 			saveProj(proj);
 		}
 	});
@@ -26,5 +26,3 @@ $(function(){
 		}
 	});
 });
-
-var btn = getElementById()

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/syntax.js"></script>
+		<script>
+			function lang() {
+				var fileName = window.editingFile;
+				var fileExtName = fileName.split(".");
+				return fileExtName[fileExtName.length - 1];
+			}
+		</script>
+	</head>
+	<body>
+		<div id="line-num"></div>
+		<div id="code" contenteditable="true" onkeyup="highlight(lang())">
+			Welcome to here!
+
+			Drag and drop a project file onto here to load it.
+			Ctrl+R to reload the project.
+
+			Have fun!
+		</div>
+	</body>
+</html>

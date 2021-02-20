@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>GMEditor</title>
-    <link rel="stylesheet/less" type="text/css" href="less/main.less">
+    <link rel="stylesheet/css" href="style/main.css">
 	<link rel="stylesheet" href="fa/css/font-awesome.css">
 	<script src="jquery.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/3.11.1/less.min.js"></script>
     <script src="js/main.js"></script>
 </head>
 <body>
@@ -31,8 +30,33 @@
     </div>
 	<div class="folderbar">
 		<div class="spr">
-			
+            <i class="fa folder">&#xf105;</i>
+            <i class="fa folder_icon">&#xf07b;Sprites</i>
 		</div>
+        <div class="sha">
+            <i class="fa folder">&#xfi05;</i>
+            <i class="fa folder_icon">&#xf07b;Shaders</i>
+        </div>
+        <div class="scr">
+            <i class="fa folder">&#xfi05;</i>
+            <i class="fa folder_icon">&#xf07b;Scripts</i>
+        </div>
+        <div class="obj">
+            <i class="fa folder">&#xfi05;</i>
+            <i class="fa folder_icon">&#xf07b;Objects</i>
+        </div>
+        <div class="mac">
+            <i class="fa folder">&#xfi05;</i>
+            <i class="fa folder_icon">&#xf07b;Macros</i>
+        </div>
+        <div class="fon">
+            <i class="fa folder">&#xfi05;</i>
+            <i class="fa folder_icon">&#xf07b;Fonts</i>
+        </div>
 	</div>
+    <div class="editbar">
+        <div class="navigbar"></div>
+        <iframe name="code" src="codebar.html"></iframe>
+    </div>
 </body>
 </html>

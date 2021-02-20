@@ -1,7 +1,7 @@
-export function load(isFile){
+export load = function(isFile){
 	if (isFile) {
 		
-	} else{
+	} else {
 		
 	}
 }
